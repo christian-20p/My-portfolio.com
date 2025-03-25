@@ -1,4 +1,4 @@
- body {
+body {
             font-family: Arial, sans-serif;
             background-color: #f7f7f7;
             margin: 0;
@@ -17,7 +17,7 @@ header div{
     background-color: #006F6A; 
     color: white;
     padding: 15px;
-}
+margin:0px; }
 
 header h1 {
     margin:0;
